@@ -8,3 +8,4 @@ while y:
     else:
         s = s + int(x)
         p = p + 1
+        y = False
